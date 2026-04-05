@@ -1,84 +1,95 @@
-### Hi there 👋, I'm Mohammed Khizer Shaikh
+<div align="center">
 
-**Aspiring Full-Stack Developer & AI/ML Enthusiast**  
-2nd Year B.Tech Computer Science Engineering @ Sardar Vallabhbhai Global University (SVGU)  
-Diploma in Artificial Intelligence & Machine Learning (LJ University)
+  <h1>Hi there 👋, I'm Mohammed Khizer Shaikh</h1>
+
+  <p>
+    <strong>2nd Year B.Tech CSE Student @ SVGU</strong> | Aspiring Full-Stack Developer & AI/ML Enthusiast<br>
+    Building responsive web applications and intelligent systems with modern technologies.
+  </p>
+
+  <p>
+    <a href="https://mohammedkhizershaikh.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohammad-khizer-shaikh-14a362275">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:work.mkhizer@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkhizer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkhizer&theme=radical&hide_border=true" alt="Streak Stats" height="180" />
+
+</div>
 
 ---
 
-### About Me
+### 🚀 About Me
+Passionate full-stack developer with hands-on experience in **Django + Next.js/React** stacks and practical **AI/ML integration**. 
 
-Passionate web developer with hands-on experience building responsive full-stack applications and intelligent systems.  
+I turn ideas into production-ready applications — from gamified cybersecurity education platforms to intelligent voice-assisted systems with hardware. Completed a Diploma in AI & ML and gained real backend experience during my Python Developer internship.
 
-I specialize in modern web technologies (Next.js, React, Django) and enjoy integrating AI/ML into practical solutions — from gamified cybersecurity education platforms to voice-assisted hardware systems.  
-
-Currently seeking **full-stack / backend / AI-powered web development internships** for Summer/Fall 2026.
+**Actively seeking Full-Stack / Backend / AI-powered web development internships** for Summer/Fall 2026.
 
 ---
 
 ### 🛠 Tech Stack
 
-| Category          | Technologies |
-|-------------------|--------------|
-| **Frontend**      | HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS |
-| **Backend**       | Python, Django, PHP |
-| **AI/ML**         | Scikit-Learn, NLP, Cosine Similarity, Voice Recognition, Prompt Engineering |
-| **Databases**     | MySQL, MongoDB, SQL |
-| **Other Tools**   | Raspberry Pi, Linux, Git, GitHub |
+| Category       | Technologies |
+|----------------|--------------|
+| **Frontend**   | HTML, CSS, JavaScript, React.js, **Next.js**, TypeScript, Tailwind CSS |
+| **Backend**    | Python, **Django**, PHP |
+| **AI/ML**      | Scikit-Learn, NLP, Cosine Similarity, Voice Recognition, Prompt Engineering |
+| **Databases**  | MySQL, MongoDB, SQL |
+| **Other**      | Raspberry Pi, Linux, Git, GitHub |
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Featured Projects
 
-#### [Digital Forensic Hunt](https://github.com/mohammadkhizer/digital-forensic-hunt) *(Recommended first repo to create)*
-- Full-stack gamified educational web game that teaches digital forensics and cybersecurity through interactive investigation scenarios.
-- Features: Scenario-based challenges, scoring system, evidence collection, activity monitoring, and anti-cheating mechanisms.
-- **Tech**: Django (Backend), HTML/CSS/JavaScript (Frontend), MySQL.
-- Live Demo: [Add link once deployed]
+#### [Digital Forensic Hunt](https://github.com/mohammadkhizer/digital-forensic-hunt)
+Full-stack gamified educational platform teaching digital forensics & cybersecurity through interactive real-world scenarios.  
+**My role**: Solo developer — designed core gameplay, anti-cheating mechanisms, scoring system, and database architecture.  
+**Tech**: Django (Backend), HTML/CSS/JavaScript (Frontend), MySQL.  
+**Key Learnings**: Secure session handling, gamification logic, performance optimization.  
+*(Live demo coming soon — check Portfolio for screenshots)*
 
 #### [Tech Kurukshetra 2026](https://github.com/mohammadkhizer/tech.kurukshetra)
-- Official responsive website for the futuristic tech festival at SVGU.
-- Built modern frontend showcasing events, competitions, workshops, and registration.
-- **Tech**: Next.js + TypeScript.
-- Live: [https://www.techkurukshetra.in/](https://www.techkurukshetra.in/) (or your deployed link)
+Official responsive website for SVGU's futuristic tech festival. Built modern frontend with smooth UX for event discovery and registration.  
+**Tech**: Next.js 14+, TypeScript, Tailwind CSS, Firebase/Firestore.  
+**Live**: [techkurukshetra.in](https://techkurukshetra.in)
 
-#### [Client Comet - Sales Assistant Robot](https://github.com/mohammadkhizer/client-comet-voice-assistant) *(Group Project)*
-- Intelligent voice assistant robot using machine learning for sales assistance.
-- Integrated Raspberry Pi hardware with voice recognition and natural language processing.
-- **Tech**: Scikit-Learn, Cosine Similarity, Raspberry Pi.
-- Demo Video/GIF: [Add once ready]
+#### [Client Comet – Sales Assistant Robot](https://github.com/mohammadkhizer/client-comet-voice-assistant) *(Group Project)*
+ML-powered voice assistant robot for sales recommendations with physical Raspberry Pi integration.  
+**My contribution**: Developed the recommendation engine using Scikit-Learn + cosine similarity and handled voice-to-hardware pipeline.  
+**Tech**: Python, Scikit-Learn, Voice Recognition, Raspberry Pi.
 
-**Additional full-stack web applications** built during learning and internship — check my [Portfolio](https://mohammedkhizershaikh.netlify.app) for more.
+→ More projects & details on my [Portfolio](https://mohammedkhizershaikh.netlify.app)
 
 ---
 
 ### 💼 Work Experience
-
-**Python Developer Intern** — Way to Web  
-*May 2024 – June 2024*  
-- Developed backend features for the Tripboss website using Django framework.  
-- Contributed to seamless frontend-backend integration and optimal performance.
+**Python Developer Intern — Way to Web** *(May 2024 – June 2024)*  
+- Developed and integrated backend features for the Tripboss website using Django.  
+- Ensured seamless frontend-backend communication and improved overall application performance.
 
 ---
 
-### 📚 Education
-
+### 🎓 Education
 - **B.Tech Computer Science Engineering** — Sardar Vallabhbhai Global University (SVGU)  
   June 2025 – May 2028 (Currently 2nd Year)
-
 - **Diploma in Artificial Intelligence & Machine Learning** — LJ University  
   2022 – 2025 | CGPA: 6.30 | AI Specialization
 
 ---
 
-### 📫 Let's Connect
-
+### 📈 Let's Connect & Collaborate
 - **Portfolio**: [mohammedkhizershaikh.netlify.app](https://mohammedkhizershaikh.netlify.app)
 - **LinkedIn**: [Mohammad Khizer Shaikh](https://www.linkedin.com/in/mohammad-khizer-shaikh-14a362275)
-- **Email**: [work.mkhizer@gmail.com](mailto:work.mkhizer@gmail.com)
+- **Email**: work.mkhizer@gmail.com
 
----
-
-**Always learning | Open to collaborations, internships, and opportunities in full-stack development & AI/ML**  
+Always learning. Open to **internships, open-source contributions, and exciting full-stack / AI projects**.
 
 Made with ❤️ in Ahmedabad, Gujarat, India
