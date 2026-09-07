@@ -2,7 +2,7 @@
 
 Aspiring Full-Stack Developer from Ahmedabad, Gujarat, India.
 
-2nd Year B.Tech CSE Student at SVGU | Passionate about building responsive web applications and intelligent systems using modern technologies.
+3rd Year B.Tech CSE Student at SVGU | Passionate about building responsive web applications and intelligent systems using modern technologies.
 
 ## About Me
 
