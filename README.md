@@ -14,8 +14,8 @@ I ship production backend features (Django internship, live site), build ML modu
 | Tripboss backend (Way to Web internship) | Django, REST APIs | Production, live |
 | Tech Kurukshetra 2026 | Next.js 14, TypeScript, Firebase | [techkurukshetra.in](https://techkurukshetra.in) |
 | Enterprise Network Labs (5 topologies) | Cisco Packet Tracer, OSPF, RIP, VLSM, DHCP | [repo →](https://github.com/mohammadkhizer/CN-practicals)] |
-| Client Comet – ML voice sales assistant | Python, Scikit-learn, cosine similarity, Raspberry Pi | [repo →](https://github.com/mohammadkhizer/client-comet) |
-| Digital Forensic Hunt | Django, MySQL | [repo →](https://github.com/mohammadkhizer/Digital-Forensic-Hunt) |
+| Client Comet – ML voice sales assistant | Python, Scikit-learn, cosine similarity, Raspberry Pi | Can't share REPO |
+| Digital Forensic Hunt | Django, MySQL | Can't share REPO |
 | Portfolio site | TypeScript, Next.js | [repo →](https://github.com/mohammadkhizer/Mohammedkhizer-Portfolio) |
 
 *(Update the repo links above once each README/repo is live — don't ship dead links.)*
