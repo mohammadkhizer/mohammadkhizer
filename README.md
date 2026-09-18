@@ -1,70 +1,23 @@
 # Mohammed Khizer Shaikh
+**Full-Stack Developer (MERN/Django) · AI/ML · Network Engineering fundamentals**
+Ahmedabad, India · B.Tech CSE @ SVGU (3rd yr) · Open to Summer/Fall 2026 internships
 
-Aspiring Full-Stack Developer from Ahmedabad, Gujarat, India.
+[Portfolio](https://mohammedkhizershaikh.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohammad-khizer-shaikh-14a362275) · work.mkhizer@gmail.com
 
-3rd Year B.Tech CSE Student at SVGU | Passionate about building responsive web applications and intelligent systems using modern technologies.
+I ship production backend features (Django internship, live site), build ML modules that run on real hardware (Raspberry Pi), and design enterprise network topologies (OSPF, VLSM, DHCP) in Packet Tracer. I move across the stack instead of staying in one lane.
 
-## About Me
+## What I've shipped
+| Project | Stack | Proof |
+|---|---|---|
+| Tripboss backend (Way to Web internship) | Django, REST | Production, live |
+| Tech Kurukshetra 2026 | Next.js 14, TS, Firebase | [techkurukshetra.in](https://techkurukshetra.in) |
+| 5-topology enterprise network lab | Cisco Packet Tracer, OSPF, RIP, VLSM | [repo →](#) |
+| Client Comet – voice sales assistant | Scikit-learn, cosine similarity, Raspberry Pi | [repo →](#) |
+| Digital Forensic Hunt | Django, MySQL | [repo →](#) |
 
-I am a dedicated Computer Science student with strong interest in Full-Stack Development and AI/ML. 
+## Stack
+`Python` `JavaScript/TS` `Java` `C/C++` — `React` `Next.js` `Node/Express` `Django` — `Scikit-learn` `NLP basics` — `Cisco IOS CLI` `OSPF/RIP` `VLSM` `DHCP` — `MongoDB` `SQL` `Git`
 
-Currently focusing on:
-- Modern web technologies (TypeScript, Next.js, React)
-- Backend development (Django, Python)
-- Building practical AI-powered applications
-
-I enjoy problem-solving, contributing to open source, and turning ideas into functional products.
-
-## Tech Stack
-
-**Frontend**  
-HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS
-
-**Backend**  
-Python, Django, PHP
-
-**AI/ML**  
-Scikit-Learn, NLP, Cosine Similarity, Voice Recognition, Prompt Engineering
-
-**Databases**  
-MySQL, MongoDB, SQL
-
-**Other Tools**  
-Raspberry Pi, Linux, Git, GitHub
-
-## Featured Projects
-
-- **Tech Kurukshetra 2026**  
-  Official website for SVGU tech festival built with Next.js 14, TypeScript, Tailwind CSS and Firebase.  
-  Live at: https://techkurukshetra.in
-
-- **Digital Forensic Hunt**  
-  Gamified cybersecurity education platform using Django, HTML/CSS/JS and MySQL.
-
-- **Client Comet - Sales Assistant Robot**  
-  ML-powered voice assistant built with Python, Scikit-Learn, Voice Recognition and Raspberry Pi.
-
-- **Mohammedkhizer Portfolio**  
-  Personal portfolio website (TypeScript)
-
-## Experience
-
-**Python Developer Intern**  
-Way to Web (May 2024 - June 2024)  
-- Developed backend features for Tripboss project using Django framework.
-
-## Education
-
-- **B.Tech in Computer Science and Engineering**  
-  SVGU (2025 - 2028)
-
-- **Diploma in Artificial Intelligence and Machine Learning**  
-  LJ University (2022 - 2025)
-
-## Connect With Me
-
-- Portfolio: https://mohammedkhizershaikh.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/mohammad-khizer-shaikh-14a362275
-- Email: work.mkhizer@gmail.com
-
-Currently open to Full-Stack, Backend, or AI-powered web development internships for Summer/Fall 2026.
+## Currently
+🔧 Turning networking coursework into public, documented lab repos
+🎯 Looking for backend/full-stack or network engineering internships — Summer/Fall 2026
