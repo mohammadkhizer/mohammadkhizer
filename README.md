@@ -3,7 +3,7 @@
 
 Ahmedabad, Gujarat, India · B.Tech CSE @ SVGU (3rd Year) · Open to Summer/Fall 2026 internships
 
-[Portfolio](https://mohammedkhizershaikh.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohammad-khizer-shaikh-14a362275) · work.mkhizer@gmail.com
+[Portfolio](https://mohammedkhizershaikh.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-khizer-shaikh) · work.mkhizer@gmail.com
 
 I ship production backend features (Django internship, live site), build ML modules that run on real hardware, and design enterprise network topologies (OSPF, VLSM, DHCP) in Cisco Packet Tracer. I move across the stack instead of staying in one lane.
 
@@ -15,7 +15,7 @@ I ship production backend features (Django internship, live site), build ML modu
 | Enterprise Network Labs (5 topologies) | Cisco Packet Tracer, OSPF, RIP, VLSM, DHCP | [repo →](https://github.com/mohammadkhizer/CN-practicals)] |
 | Client Comet – ML voice sales assistant | Python, Scikit-learn, cosine similarity, Raspberry Pi | Can't share REPO |
 | Digital Forensic Hunt | Django, MySQL | Can't share REPO |
-| Portfolio site | TypeScript, Next.js | [repo →](https://github.com/mohammadkhizer/Mohammedkhizer-Portfolio) |
+| Portfolio site | TypeScript, Next.js | [Mohammed Khizer Shaikh](https://mohammedkhizershaikh.netlify.app/) |
 
 
 
